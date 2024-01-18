@@ -11,7 +11,7 @@ from streamlit_folium import st_folium
 from streamlit_folium import folium_static 
 
 
-MAP_EMOJI_URL = "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/325/thermometer_1f321-fe0f.png"
+MAP_EMOJI_URL = "https://em-content.zobj.net/source/apple/354/thermometer_1f321-fe0f.png"
 
 # Set page title and favicon.
 st.set_page_config(
